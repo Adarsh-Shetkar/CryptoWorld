@@ -1,7 +1,7 @@
 
 # CryptoWorld - Explore the World of Cryptocurrency
 
-
+<img src="https://github.com/Adarsh-Shetkar/CryptoWorld/blob/main/main%20page.jpg"> 
 
 ## Abstract
 
@@ -42,9 +42,3 @@ To learn React, check out the [React documentation.](https://reactjs.org/)
 ## API Reference
 
 APIs by [RapidApi](https://rapidapi.com.)
-
-
-## Usecase Diagram
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
